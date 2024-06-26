@@ -1,0 +1,3 @@
+/home/matheus/estudoC/GrafoLista/cmake-build-debug/CMakeFiles/GrafoLista.dir
+/home/matheus/estudoC/GrafoLista/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matheus/estudoC/GrafoLista/cmake-build-debug/CMakeFiles/rebuild_cache.dir
