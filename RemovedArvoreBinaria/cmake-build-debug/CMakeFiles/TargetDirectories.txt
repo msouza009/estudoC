@@ -1,0 +1,3 @@
+/home/matheus/estudoC/RemovedArvoreBinaria/cmake-build-debug/CMakeFiles/RemovedArvoreBinaria.dir
+/home/matheus/estudoC/RemovedArvoreBinaria/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matheus/estudoC/RemovedArvoreBinaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
