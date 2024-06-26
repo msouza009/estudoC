@@ -1,0 +1,3 @@
+/home/matheus/estudoC/ArvoreBinariaBusca/cmake-build-debug/CMakeFiles/ArvoreBinariaBusca.dir
+/home/matheus/estudoC/ArvoreBinariaBusca/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matheus/estudoC/ArvoreBinariaBusca/cmake-build-debug/CMakeFiles/rebuild_cache.dir
