@@ -1,0 +1,3 @@
+/home/matheus/estudoC/BuscaTabelaHash/cmake-build-debug/CMakeFiles/BuscaTabelaHash.dir
+/home/matheus/estudoC/BuscaTabelaHash/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matheus/estudoC/BuscaTabelaHash/cmake-build-debug/CMakeFiles/rebuild_cache.dir
