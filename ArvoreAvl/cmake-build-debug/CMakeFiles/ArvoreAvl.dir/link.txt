@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ArvoreAvl.dir/main.c.o -o ArvoreAvl 

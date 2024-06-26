@@ -1,0 +1,3 @@
+/home/matheus/estudoC/ArvoreAvl/cmake-build-debug/CMakeFiles/ArvoreAvl.dir
+/home/matheus/estudoC/ArvoreAvl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matheus/estudoC/ArvoreAvl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
